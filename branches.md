@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/typed-float-ctors"
-click B href "https://github.com/stdlib-js/array-typed-float-ctors/tree/main"
-click C href "https://github.com/stdlib-js/array-typed-float-ctors/tree/production"
-click D href "https://github.com/stdlib-js/array-typed-float-ctors/tree/esm"
-click E href "https://github.com/stdlib-js/array-typed-float-ctors/tree/deno"
-click F href "https://github.com/stdlib-js/array-typed-float-ctors/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/typed-float-ctors"
+%% click B href "https://github.com/stdlib-js/array-typed-float-ctors/tree/main"
+%% click C href "https://github.com/stdlib-js/array-typed-float-ctors/tree/production"
+%% click D href "https://github.com/stdlib-js/array-typed-float-ctors/tree/esm"
+%% click E href "https://github.com/stdlib-js/array-typed-float-ctors/tree/deno"
+%% click F href "https://github.com/stdlib-js/array-typed-float-ctors/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/typed-float-ctors
