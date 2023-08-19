@@ -40,7 +40,8 @@
     "@stdlib/array-complex128": "^0.0.6",
     "@stdlib/array-complex64": "^0.0.6",
     "@stdlib/array-float32": "^0.0.6",
-    "@stdlib/array-float64": "^0.0.6"
+    "@stdlib/array-float64": "^0.0.6",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2"
   },
   "devDependencies": {
     "@stdlib/array-typed-float-dtypes": "^0.0.1",
