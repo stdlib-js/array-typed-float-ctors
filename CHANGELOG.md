@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`cf1992a`](https://github.com/stdlib-js/stdlib/commit/cf1992a4cc74bce29f953c111c530d7951fbe768) - add float16 dtype support to `array/typed-float-ctors` [(#13048)](https://github.com/stdlib-js/stdlib/pull/13048)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`cf1992a`](https://github.com/stdlib-js/stdlib/commit/cf1992a4cc74bce29f953c111c530d7951fbe768) - **feat:** add float16 dtype support to `array/typed-float-ctors` [(#13048)](https://github.com/stdlib-js/stdlib/pull/13048) _(by Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gururaj Gurram
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
